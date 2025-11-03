@@ -6,7 +6,7 @@ _Playlist of all radio stations from Caprice Radio Network website (radcap.ru)._
 
 Download:
 ```
-https://github.com/zaisty/CapriceRadio-Playlist/blob/3db7fdb40014cf5091213ed5e8827d0f7af9fe19/RadCap_487st.xspf
+https://raw.githubusercontent.com/zaisty/CapriceRadio-Playlist/master/RadCap_487st.xspf
 ```
 
 Alternative Download:
