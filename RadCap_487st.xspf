@@ -1,0 +1,4463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/" version="1">
+  <title>RADCAP</title>
+  <identifier>{02CF3F60-8D48-4922-9437-E2D71921B757}</identifier>
+  <location>file:///D:/TMP/~RADCAP.xspf</location>
+  <extension application="http://www.aimp.ru/playlist/summary/0">
+    <aimp:prop name="ID">{02CF3F60-8D48-4922-9437-E2D71921B757}</aimp:prop>
+    <aimp:prop name="Name">RADCAP</aimp:prop>
+    <aimp:prop name="NameIsAutoSet">0</aimp:prop>
+    <aimp:prop name="ContentFiles">487</aimp:prop>
+    <aimp:prop name="PlaybackCursor">-1</aimp:prop>
+    <aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
+    <aimp:prop name="ReadOnly">1</aimp:prop>
+    <aimp:prop name="Shuffled">0</aimp:prop>
+  </extension>
+  <extension application="http://www.aimp.ru/playlist/settings/0">
+    <aimp:prop name="Flags">6743</aimp:prop>
+    <aimp:prop name="FormatMainLine">%IF(%Artist,%Artist - %Title,%Title)</aimp:prop>
+    <aimp:prop name="FormatSecondLine">%FileFormat :: %SampleRate, %BitRate, %FileSize</aimp:prop>
+    <aimp:prop name="GroupFormatLine">%Publisher</aimp:prop>
+  </extension>
+  <trackList>
+    <track>
+      <location>http://79.120.39.202:8000/africanfolk</location>
+      <title>AFRICAN FOLK / ETHNIC MUSIC</title>
+      <image>http://radcap.ru/stylegraf/africanfolk.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>0</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>ETHNIC / FOLK / SPIRITUAL</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/afrobeat</location>
+      <title>AFROBEAT / AFROBEATS</title>
+      <image>http://radcap.ru/stylegraf/afrobeat1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>1</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/americana</location>
+      <title>AMERICANA / AMERICAN ROOTS MUSIC</title>
+      <image>http://radcap.ru/stylegraf/americana1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>2</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/andean</location>
+      <title>ANDEAN / SOUTH AMERICAN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/andean.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>3</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/balkan</location>
+      <title>BALKAN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/balkan.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>4</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/caucasus</location>
+      <title>CAUCASIAN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/caucasus1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>5</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/celtic</location>
+      <title>CELTIC MUSIC / CELTIC FUSION</title>
+      <image>http://radcap.ru/stylegraf/celtic1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>6</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/europeanfolk</location>
+      <title>EUROPEAN / WESTERN FOLK MUSIC</title>
+      <image>http://radcap.ru/stylegraf/eurofolk.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>7</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/fado</location>
+      <title>FADO (PORTUGUESE MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/fado4.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>8</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/fareast</location>
+      <title>FAR EASTERN TRADITIONAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/fareast.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>9</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/flamenco</location>
+      <title>FLAMENCO (SPAIN / ANDALUSIAN MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/flamenco1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>10</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/gospel</location>
+      <title>GOSPEL / SPIRITUALS MUSIC</title>
+      <image>http://radcap.ru/stylegraf/gospel1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>11</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/indianfolk</location>
+      <title>INDIAN CLASSICAL / FOLK / ETHNIC</title>
+      <image>http://radcap.ru/stylegraf/indian1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>12</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/mantras</location>
+      <title>INDIAN SPIRITUAL MUSIC (MANTRAS, BHAJANS, KIRTANS...)</title>
+      <image>http://radcap.ru/stylegraf/mantras.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>13</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/klezmer</location>
+      <title>JEWISH MUSIC / KLEZMER</title>
+      <image>http://radcap.ru/stylegraf/klezmer2.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>14</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/laika</location>
+      <title>LAIKO / GREEK MUSIC</title>
+      <image>http://radcap.ru/stylegraf/laika2.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>15</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/medievalfolk</location>
+      <title>MEDIEVAL FOLK</title>
+      <image>http://radcap.ru/stylegraf/medievalfolk.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>16</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/middleeast</location>
+      <title>MIDDLE EASTERN TRADITIONAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/middleeast.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>17</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/siberia</location>
+      <title>MUSIC OF SIBERIA / MONGOLIA</title>
+      <image>http://radcap.ru/stylegraf/siberia.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>18</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/nativeamerican</location>
+      <title>NATIVE AMERICAN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/natam4.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>19</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/oceania</location>
+      <title>OCEANIAN / AUSTRALIAN /...</title>
+      <image>http://radcap.ru/stylegraf/oceania2.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>20</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/orthodox</location>
+      <title>ORTHODOX SPIRITUAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/orthodox2.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>21</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/russianfolk</location>
+      <title>RUSSIAN FOLK MUSIC / SONGS</title>
+      <image>http://radcap.ru/stylegraf/russian1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>22</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/slavonicneofolk</location>
+      <title>SLAVIC NEOFOLK MUSIC</title>
+      <image>http://radcap.ru/stylegraf/slavonic.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>23</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/tango</location>
+      <title>TANGO / ARGENTINE / NUEVO TANGO</title>
+      <image>http://radcap.ru/stylegraf/tango1.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>24</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/salsa</location>
+      <title>TRADITIONAL LATIN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/salsa.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>25</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/zydeco</location>
+      <title>ZYDECO / CAJUN / CREOLE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/zydeco2.jpg</image>
+      <meta rel="publisher">ETHNIC / FOLK / SPIRITUAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>26</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/cantata</location>
+      <title>CANTATA</title>
+      <image>http://radcap.ru/stylegraf/cantata.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>27</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>CLASSICAL</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/cello</location>
+      <title>CELLO / VIOLONCELLO</title>
+      <image>http://radcap.ru/stylegraf/cello.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>28</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/chamber</location>
+      <title>CHAMBER MUSIC (CLASSICAL)</title>
+      <image>http://radcap.ru/stylegraf/chamber3.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>29</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/chants</location>
+      <title>CHANTS / GREGORIAN CHANTS</title>
+      <image>http://radcap.ru/stylegraf/chant.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>30</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/sacred</location>
+      <title>CHRISTIAN SACRED MUSIC</title>
+      <image>http://radcap.ru/stylegraf/sacred1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>31</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/clarinet</location>
+      <title>CLARINET / BASSOON / OBOE</title>
+      <image>http://radcap.ru/stylegraf/clarinet3.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>32</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/classavant</location>
+      <title>CLASSICAL AVANT-GARDE</title>
+      <image>http://radcap.ru/stylegraf/classavant.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>33</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/baroque</location>
+      <title>CLASSICAL BAROQUE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/baroque2.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>34</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/chorus</location>
+      <title>CLASSICAL CHORAL / VOCAL MUSIC (CANTATA / MISSA / ORATORIO)</title>
+      <image>http://radcap.ru/stylegraf/gregorian1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>35</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/classguitar</location>
+      <title>CLASSICAL GUITAR</title>
+      <image>http://radcap.ru/stylegraf/classguitar1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>36</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/classpiano</location>
+      <title>CLASSICAL PIANO MUSIC</title>
+      <image>http://radcap.ru/stylegraf/classicalpiano1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>37</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/classical</location>
+      <title>CLASSICAL SYMPHONIC MUSIC</title>
+      <image>http://radcap.ru/stylegraf/symphonic.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>38</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/clavecin</location>
+      <title>CLAVECIN / CEMBALO / HARPSICHORD</title>
+      <image>http://radcap.ru/stylegraf/clavecin2.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>39</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/contclass</location>
+      <title>CONTEMPORARY CLASSICAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/contclass.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>40</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/harp</location>
+      <title>HARP</title>
+      <image>http://radcap.ru/stylegraf/harp1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>41</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/impressionism</location>
+      <title>IMPRESSIONISM (CLASSICAL MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/impressionism1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>42</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/lute</location>
+      <title>LUTE / ARCHLUTE / THEORBO</title>
+      <image>http://radcap.ru/stylegraf/lute.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>43</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/medieval</location>
+      <title>MEDIEVAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/medieval1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>44</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/minimalism</location>
+      <title>MINIMALISM / POSTMINIMALISM</title>
+      <image>http://radcap.ru/stylegraf/minimalism.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>45</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/opera</location>
+      <title>OPERA</title>
+      <image>http://radcap.ru/stylegraf/opera1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>46</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/oratorio</location>
+      <title>ORATORIO / ORATORIUM</title>
+      <image>http://radcap.ru/stylegraf/oratorio.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>47</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/organ</location>
+      <title>ORGAN MUSIC</title>
+      <image>http://radcap.ru/stylegraf/organ1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>48</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/renaissance</location>
+      <title>RENAISSANCE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/renaissance.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>49</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/sonata</location>
+      <title>SONATAS</title>
+      <image>http://radcap.ru/stylegraf/sonata.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>50</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/strings</location>
+      <title>STRINGS (VIOLIN, VIOLA, CELLO, DOUBLE BASS)</title>
+      <image>http://radcap.ru/stylegraf/strings.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>51</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/symphony</location>
+      <title>SYMPHONY</title>
+      <image>http://radcap.ru/stylegraf/symphony1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>52</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/violin</location>
+      <title>VIOLIN / VIOLINO</title>
+      <image>http://radcap.ru/stylegraf/violin1.jpg</image>
+      <meta rel="publisher">CLASSICAL</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>53</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/acousticblues</location>
+      <title>ACOUSTIC BLUES</title>
+      <image>http://radcap.ru/stylegraf/acousticdlues2.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>54</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>BLUES / SOUL / FUNK / R&amp;B</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/blues</location>
+      <title>BLUES</title>
+      <image>http://radcap.ru/stylegraf/blues2.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>55</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/chicagoblues</location>
+      <title>CHICAGO BLUES</title>
+      <image>http://radcap.ru/stylegraf/chicagoblues1.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>56</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/countryblues</location>
+      <title>COUNTRY / FOLK BLUES</title>
+      <image>http://radcap.ru/stylegraf/countryblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>57</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/deltablues</location>
+      <title>DELTA BLUES</title>
+      <image>http://radcap.ru/stylegraf/deltablues3.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>58</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/electricblues</location>
+      <title>ELECTRIC / MODERN ELECTRIC BLUES</title>
+      <image>http://radcap.ru/stylegraf/modelblues3.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>59</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/funk</location>
+      <title>FUNK</title>
+      <image>http://radcap.ru/stylegraf/funk2.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>60</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/harpblues</location>
+      <title>HARMONICA / HARP BLUES</title>
+      <image>http://radcap.ru/stylegraf/harmonicablues2.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>61</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/heavyblues</location>
+      <title>HEAVY / HARD BLUES</title>
+      <image>http://radcap.ru/stylegraf/hardblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>62</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/jumpblues</location>
+      <title>JUMP BLUES</title>
+      <image>http://radcap.ru/stylegraf/jumpblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>63</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/louisianablues</location>
+      <title>LOUISIANA / SWAMP / NEW ORLEANS BLUES</title>
+      <image>http://radcap.ru/stylegraf/swampblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>64</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/pianoblues</location>
+      <title>PIANO BLUES / BOOGIE-WOOGIE</title>
+      <image>http://radcap.ru/stylegraf/pianoblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>65</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/popsoul</location>
+      <title>POP SOUL</title>
+      <image>http://radcap.ru/stylegraf/popsoul.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>66</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rnb</location>
+      <title>RHYTHM AND BLUES / R'N'B</title>
+      <image>http://radcap.ru/stylegraf/rnb5.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>67</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/slideguitar</location>
+      <title>SLIDE GUITAR</title>
+      <image>http://radcap.ru/stylegraf/slideguitar.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>68</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/soul</location>
+      <title>SOUL / NEO SOUL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/soul2.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>69</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/soulblues</location>
+      <title>SOUL BLUES</title>
+      <image>http://radcap.ru/stylegraf/soulblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>70</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/texasblues</location>
+      <title>TEXAS BLUES</title>
+      <image>http://radcap.ru/stylegraf/texasblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>71</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/westcoastblues</location>
+      <title>WEST COAST BLUES</title>
+      <image>http://radcap.ru/stylegraf/westcoastblues.jpg</image>
+      <meta rel="publisher">BLUES / SOUL / FUNK / R&amp;B</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>72</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/altcountry</location>
+      <title>ALTERNATIVE / INSURGENT COUNTRY MUSIC</title>
+      <image>http://radcap.ru/stylegraf/altcountry3.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>73</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>COUNTRY MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/bluegrass</location>
+      <title>BLUEGRASS (COUNTRY MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/bluegrass2.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>74</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/country</location>
+      <title>COUNTRY MUSIC</title>
+      <image>http://radcap.ru/stylegraf/country.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>75</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/countrypop</location>
+      <title>COUNTRY POP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/countrypop1.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>76</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/honkytonk</location>
+      <title>HONKY-TONK / HONKATONK / HONKEY TONK</title>
+      <image>http://radcap.ru/stylegraf/honkytonk1.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>77</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/westernswing</location>
+      <title>WESTERN SWING MUSIC</title>
+      <image>http://radcap.ru/stylegraf/westernswing1.jpg</image>
+      <meta rel="publisher">COUNTRY MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>78</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/acidjazz</location>
+      <title>ACID / CLUB / GROOVE JAZZ</title>
+      <image>http://radcap.ru/stylegraf/acidjazz4.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>79</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>JAZZ</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/avantgardejazz</location>
+      <title>AVANT-GARDE JAZZ / FREE IMPROVISATION</title>
+      <image>http://radcap.ru/stylegraf/avantjazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>80</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/bebop</location>
+      <title>BEBOP / BE-BOP / BOP</title>
+      <image>http://radcap.ru/stylegraf/bebop1.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>81</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/bigband</location>
+      <title>BIG BAND / JAZZ ORCHESTRA</title>
+      <image>http://radcap.ru/stylegraf/bigband.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>82</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/bossanova</location>
+      <title>BOSSA NOVA (BRAZILIAN MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/bossanova5.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>83</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/brazilianjazz</location>
+      <title>BRAZILIAN JAZZ</title>
+      <image>http://radcap.ru/stylegraf/brazilianjazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>84</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/chamberjazz</location>
+      <title>CHAMBER JAZZ</title>
+      <image>http://radcap.ru/stylegraf/chamberjazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>85</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/contemporaryjazz</location>
+      <title>CONTEMPORARY JAZZ</title>
+      <image>http://radcap.ru/stylegraf/contemporaryjazz2.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>86</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/cooljazz</location>
+      <title>COOL / WEST COAST JAZZ</title>
+      <image>http://radcap.ru/stylegraf/cooljazz1.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>87</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/crossoverjazz</location>
+      <title>CROSSOVER JAZZ</title>
+      <image>http://radcap.ru/stylegraf/crossoverjazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>88</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/darkjazz</location>
+      <title>DARK / DOOM / NOIR / FUNERAL / AMBIENT JAZZ</title>
+      <image>http://radcap.ru/stylegraf/darkjazz5.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>89</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/dixieland</location>
+      <title>DIXIELAND / NEW ORLEANS / TRADITIONAL / HOT JAZZ</title>
+      <image>http://radcap.ru/stylegraf/dixieland.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>90</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/ethnojazz</location>
+      <title>ETHNO / WORLD JAZZ</title>
+      <image>http://radcap.ru/stylegraf/ethnojazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>91</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/freefunk</location>
+      <title>FREE FUNK</title>
+      <image>http://radcap.ru/stylegraf/freefunk.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>92</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/freejazz</location>
+      <title>FREE JAZZ</title>
+      <image>http://radcap.ru/stylegraf/freejazz1.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>93</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/guitarjazz</location>
+      <title>GUITAR JAZZ</title>
+      <image>http://radcap.ru/stylegraf/guitarjazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>94</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/hardbop</location>
+      <title>HARD BOP</title>
+      <image>http://radcap.ru/stylegraf/hardbop2.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>95</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/jazz</location>
+      <title>JAZZ</title>
+      <image>http://radcap.ru/stylegraf/jazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>96</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/jazzfunk</location>
+      <title>JAZZ FUNK</title>
+      <image>http://radcap.ru/stylegraf/jazzfunk.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>97</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/jazzfusion</location>
+      <title>JAZZ FUSION</title>
+      <image>http://radcap.ru/stylegraf/jazzfusion3.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>98</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/manouche</location>
+      <title>JAZZ MANOUCHE / GYPSY JAZZ / GYPSY SWING</title>
+      <image>http://radcap.ru/stylegraf/manouche.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>99</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/jazzpop</location>
+      <title>JAZZ POP</title>
+      <image>http://radcap.ru/stylegraf/jazzpop1.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>100</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/trumpetjazz</location>
+      <title>JAZZ TRUMPET</title>
+      <image>http://radcap.ru/stylegraf/trumpet.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>101</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/latinjazz</location>
+      <title>LATIN / AFRO-CUBAN JAZZ</title>
+      <image>http://radcap.ru/stylegraf/latinjazz2.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>102</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/mainstreamjazz</location>
+      <title>MAINSTREAM JAZZ</title>
+      <image>http://radcap.ru/stylegraf/mainstreamjazz2.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>103</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/modaljazz</location>
+      <title>MODAL JAZZ</title>
+      <image>http://radcap.ru/stylegraf/modal.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>104</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/mcreative</location>
+      <title>MODERN CREATIVE</title>
+      <image>http://radcap.ru/stylegraf/mcreative.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>105</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/nujazz</location>
+      <title>NU JAZZ / FUTURE JAZZ</title>
+      <image>http://radcap.ru/stylegraf/nujazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>106</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/pianojazz</location>
+      <title>PIANO JAZZ / STRIDE / RAGTIME</title>
+      <image>http://radcap.ru/stylegraf/pianojazz.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>107</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/postbop</location>
+      <title>POST BOP (JAZZ MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/postbop.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>108</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/smoothjazz</location>
+      <title>SMOOTH / SOFT JAZZ</title>
+      <image>http://radcap.ru/stylegraf/smoothjazz4.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>109</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/souljazz</location>
+      <title>SOUL JAZZ</title>
+      <image>http://radcap.ru/stylegraf/souljazz6.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>110</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/straightahead</location>
+      <title>STRAIGHT-AHEAD JAZZ</title>
+      <image>http://radcap.ru/stylegraf/straightahead.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>111</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/ecmrecords</location>
+      <title>STYLE &amp; SOUND ECM RECORDS</title>
+      <image>http://radcap.ru/stylegraf/ecm9.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>112</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/swing</location>
+      <title>SWING / NEO-SWING MUSIC</title>
+      <image>http://radcap.ru/stylegraf/swing3.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>113</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/thirdstream</location>
+      <title>THIRD STREAM JAZZ</title>
+      <image>http://radcap.ru/stylegraf/thirdstream.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>114</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/vibraphone</location>
+      <title>VIBRAPHONE IN JAZZ</title>
+      <image>http://radcap.ru/stylegraf/vibraphonejazz1.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>115</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/vocaljazz</location>
+      <title>VOCAL JAZZ / JAZZ SINGING</title>
+      <image>http://radcap.ru/stylegraf/vocaljazz2.jpg</image>
+      <meta rel="publisher">JAZZ</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>116</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/arabicpop</location>
+      <title>ARABIC POP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/arabicpop3.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>117</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>POP MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/chalga</location>
+      <title>BULGARIAN POP-FOLK / ETHNOPOP / CHALGA</title>
+      <image>http://radcap.ru/stylegraf/chalga2.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>118</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/cpop</location>
+      <title>C-POP (CHINESE POPULAR MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/cpop1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>119</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/cantopop</location>
+      <title>CANTOPOP / HK-POP</title>
+      <image>http://radcap.ru/stylegraf/cantopop.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>120</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/classcross</location>
+      <title>CLASSICAL CROSSOVER</title>
+      <image>http://radcap.ru/stylegraf/classcross1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>121</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/dancepop</location>
+      <title>DANCE POP</title>
+      <image>http://radcap.ru/stylegraf/dancepop2.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>122</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/disco</location>
+      <title>DISCO</title>
+      <image>http://radcap.ru/stylegraf/disco4.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>123</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/eurodisco</location>
+      <title>EURO DISCO</title>
+      <image>http://radcap.ru/stylegraf/eurodisco.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>124</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/eurobeat</location>
+      <title>EUROBEAT / HI-NRG</title>
+      <image>http://radcap.ru/stylegraf/eurobeat.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>125</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/eurodance</location>
+      <title>EURODANCE / EURO-NRG</title>
+      <image>http://radcap.ru/stylegraf/eurodance.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>126</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/folkpop</location>
+      <title>FOLK POP</title>
+      <image>http://radcap.ru/stylegraf/folkpop.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>127</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/frenchchanson</location>
+      <title>FRENCH / NOUVELLE CHANSON</title>
+      <image>http://radcap.ru/stylegraf/frenchchanson1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>128</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/frenchpop</location>
+      <title>FRENCH POP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/frenchpop3.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>129</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/italodisco</location>
+      <title>ITALO DISCO</title>
+      <image>http://radcap.ru/stylegraf/italodisco3.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>130</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/italopop</location>
+      <title>ITALIAN POPULAR MUSIC</title>
+      <image>http://radcap.ru/stylegraf/italopop.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>131</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/jpop</location>
+      <title>J-POP (JAPANESE POPULAR MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/jpop1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>132</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/kpop</location>
+      <title>K-POP (KOREAN POPULAR MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/kpop.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>133</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/latinpop</location>
+      <title>LATIN POPULAR MUSIC</title>
+      <image>http://radcap.ru/stylegraf/latinpop7.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>134</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/manele</location>
+      <title>MANELE / ROMANIAN POP-FOLK / ETHNIC</title>
+      <image>http://radcap.ru/stylegraf/manele1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>135</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/nudisco</location>
+      <title>NU DISCO</title>
+      <image>http://radcap.ru/stylegraf/nudisco3.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>136</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/popballads</location>
+      <title>POP BALLADS</title>
+      <image>http://radcap.ru/stylegraf/popballads2.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>137</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/pop</location>
+      <title>POP (POPULAR) MUSIC</title>
+      <image>http://radcap.ru/stylegraf/pop4.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>138</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/reggaeton</location>
+      <title>REGGAETON / CUBATON / SALSATON / LATINO...</title>
+      <image>http://radcap.ru/stylegraf/reggaeton1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>139</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/ussr</location>
+      <title>POP MUSIC OF THE USSR</title>
+      <image>http://radcap.ru/stylegraf/ussr2.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>140</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/80ru</location>
+      <title>RUSSIAN POP MUSIC 1980-1990's</title>
+      <image>http://radcap.ru/stylegraf/80ru5.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>141</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/popru</location>
+      <title>RUSSIAN POP (POPULAR) MUSIC</title>
+      <image>http://radcap.ru/stylegraf/popru2.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>142</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/schlager</location>
+      <title>SCHLAGER MUSIC</title>
+      <image>http://radcap.ru/stylegraf/schlager.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>143</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/tradpop</location>
+      <title>TRADITIONAL POP / CLASSIC POP</title>
+      <image>http://radcap.ru/stylegraf/traditionalpop1.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>144</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/turkishpop</location>
+      <title>TURKISH POP / POP ROCK</title>
+      <image>http://radcap.ru/stylegraf/turkishpop.jpg</image>
+      <meta rel="publisher">POP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>145</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/acidrock</location>
+      <title>ACID ROCK</title>
+      <image>http://radcap.ru/stylegraf/acidrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>146</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>ROCK MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/altrock</location>
+      <title>ALTERNATIVE / ALT ROCK</title>
+      <image>http://radcap.ru/stylegraf/altrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>147</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/aor</location>
+      <title>AOR (ALBUM ORIENTED ROCK) / MELODIC HARD ROCK</title>
+      <image>http://radcap.ru/stylegraf/aor.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>148</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/artrock</location>
+      <title>ART ROCK</title>
+      <image>http://radcap.ru/stylegraf/artrock2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>149</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/avantprog</location>
+      <title>AVANT-PROG / ROCK IN OPPOSITION (RIO) / CANTERBURY SCENE / ZEUHL</title>
+      <image>http://radcap.ru/stylegraf/avantprog2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>150</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/avantrock</location>
+      <title>AVANT ROCK / EXPERIMENTAL</title>
+      <image>http://radcap.ru/stylegraf/avantrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>151</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/bluesrock</location>
+      <title>BLUES ROCK</title>
+      <image>http://radcap.ru/stylegraf/bluesrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>152</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/britpop</location>
+      <title>BRITPOP / POST BRITPOP</title>
+      <image>http://radcap.ru/stylegraf/britpop2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>153</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/celticrock</location>
+      <title>CELTIC ROCK</title>
+      <image>http://radcap.ru/stylegraf/celticrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>154</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/chamberpop</location>
+      <title>CHAMBER / BAROQUE / POP / ROCK</title>
+      <image>http://radcap.ru/stylegraf/chamberpop1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>155</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/christianrock</location>
+      <title>CHRISTIAN ROCK</title>
+      <image>http://radcap.ru/stylegraf/christianrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>156</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rock</location>
+      <title>CLASSIC ROCK / ROCK</title>
+      <image>http://radcap.ru/stylegraf/classicrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>157</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/countryrock</location>
+      <title>COUNTRY ROCK</title>
+      <image>http://radcap.ru/stylegraf/countryrock3.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>158</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/crossoverprog</location>
+      <title>CROSSOVER PROG</title>
+      <image>http://radcap.ru/stylegraf/crossoverprog.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>159</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/dancepunk</location>
+      <title>DANCE / DISCO / FUNK PUNK</title>
+      <image>http://radcap.ru/stylegraf/dancepunk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>160</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/darkcabaret</location>
+      <title>DARK CABARET</title>
+      <image>http://radcap.ru/stylegraf/darkcabaret1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>161</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/darkwave</location>
+      <title>DARK WAVE</title>
+      <image>http://radcap.ru/stylegraf/darkwave5.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>162</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/deathrock</location>
+      <title>DEATH ROCK / DEATHROCK</title>
+      <image>http://radcap.ru/stylegraf/deathrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>163</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/dreampop</location>
+      <title>DREAM POP</title>
+      <image>http://radcap.ru/stylegraf/dreampop5.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>164</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/eclecticprog</location>
+      <title>ECLECTIC PROGRESSIVE ROCK</title>
+      <image>http://radcap.ru/stylegraf/eclecticprog.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>165</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/ethereal</location>
+      <title>ETHEREAL WAVE / GOTH / DARKWAVE</title>
+      <image>http://radcap.ru/stylegraf/ethereal1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>166</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/folkpunk</location>
+      <title>FOLK / CELTIC / GYPSY PUNK</title>
+      <image>http://radcap.ru/stylegraf/folkpunk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>167</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/folkrock</location>
+      <title>FOLK ROCK</title>
+      <image>http://radcap.ru/stylegraf/folkrock3.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>168</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/funkrock</location>
+      <title>FUNK ROCK / METAL</title>
+      <image>http://radcap.ru/stylegraf/funkmetal.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>169</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/garagepunk</location>
+      <title>GARAGE PUNK</title>
+      <image>http://radcap.ru/stylegraf/garagepunk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>170</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/garagerock</location>
+      <title>GARAGE ROCK / GARAGE REVIVAL</title>
+      <image>http://radcap.ru/stylegraf/garagerock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>171</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/glam</location>
+      <title>GLAM ROCK / METAL</title>
+      <image>http://radcap.ru/stylegraf/glamrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>172</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/gothicrock</location>
+      <title>GOTHIC / GOTH ROCK</title>
+      <image>http://radcap.ru/stylegraf/gothicrock7.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>173</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/grunge</location>
+      <title>GRUNGE / SEATTLE SOUND</title>
+      <image>http://radcap.ru/stylegraf/grunge.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>174</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/hardrock</location>
+      <title>HARD / HEAVY ROCK</title>
+      <image>http://radcap.ru/stylegraf/hardrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>175</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/heavypsych</location>
+      <title>HEAVY / HARD PSYCHEDELIC</title>
+      <image>http://radcap.ru/stylegraf/heavypsych.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>176</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/heavyprog</location>
+      <title>HEAVY / HARD PROG</title>
+      <image>http://radcap.ru/stylegraf/heavyprog.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>177</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/horrorpunk</location>
+      <title>HORROR PUNK</title>
+      <image>http://radcap.ru/stylegraf/horrorpunk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>178</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/indiepop</location>
+      <title>INDIE / TWEE POP</title>
+      <image>http://radcap.ru/stylegraf/twee.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>179</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/indiefolk</location>
+      <title>INDIE FOLK</title>
+      <image>http://radcap.ru/stylegraf/indiefolk2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>180</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/indierock</location>
+      <title>INDIE ROCK</title>
+      <image>http://radcap.ru/stylegraf/indierock2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>181</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/industrialrock</location>
+      <title>INDUSTRIAL ROCK</title>
+      <image>http://radcap.ru/stylegraf/industrialrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>182</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/instrumentalrock</location>
+      <title>INSTRUMENTAL ROCK</title>
+      <image>http://radcap.ru/stylegraf/instrumentalrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>183</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/jrock</location>
+      <title>J-ROCK (JAPANESE ROCK MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/jrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>184</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/jamband</location>
+      <title>JAM BAND</title>
+      <image>http://radcap.ru/stylegraf/jamband.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>185</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/jazzrock</location>
+      <title>JAZZ ROCK</title>
+      <image>http://radcap.ru/stylegraf/jazzrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>186</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/krautrock</location>
+      <title>KRAUTROCK / KOSMISCHE MUSIK</title>
+      <image>http://radcap.ru/stylegraf/krautrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>187</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/mathrock</location>
+      <title>MATH ROCK</title>
+      <image>http://radcap.ru/stylegraf/mathrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>188</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/neoprogrock</location>
+      <title>NEO-PROGRESSIVE ROCK</title>
+      <image>http://radcap.ru/stylegraf/neoprogrock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>189</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/newwave</location>
+      <title>NEW WAVE / COLD WAVE</title>
+      <image>http://radcap.ru/stylegraf/newwave.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>190</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/noiserock</location>
+      <title>NOISE ROCK / POP</title>
+      <image>http://radcap.ru/stylegraf/noiserock1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>191</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/oistreetpunk</location>
+      <title>OI! / STREET PUNK</title>
+      <image>http://radcap.ru/stylegraf/oi.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>192</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/pianorock</location>
+      <title>PIANO ROCK / POP</title>
+      <image>http://radcap.ru/stylegraf/pianorock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>193</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/poppunk</location>
+      <title>POP PUNK</title>
+      <image>http://radcap.ru/stylegraf/poppunk1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>194</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/poprock</location>
+      <title>POP ROCK / SOFT ROCK / POWER POP</title>
+      <image>http://radcap.ru/stylegraf/poprock4.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>195</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/postgrunge</location>
+      <title>POST GRUNGE</title>
+      <image>http://radcap.ru/stylegraf/postgrunge.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>196</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/postpunk</location>
+      <title>POST PUNK / NO WAVE</title>
+      <image>http://radcap.ru/stylegraf/postpunk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>197</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/postrock</location>
+      <title>POST ROCK</title>
+      <image>http://radcap.ru/stylegraf/postrock4.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>198</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/progfolk</location>
+      <title>PROGRESSIVE FOLK</title>
+      <image>http://radcap.ru/stylegraf/progfolk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>199</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/progressiverock</location>
+      <title>PROGRESSIVE ROCK</title>
+      <image>http://radcap.ru/stylegraf/progrock2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>200</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/psychfolk</location>
+      <title>PSYCHEDELIC FOLK</title>
+      <image>http://radcap.ru/stylegraf/psychfolk.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>201</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/psychedelicrock</location>
+      <title>PSYCHEDELIC ROCK</title>
+      <image>http://radcap.ru/stylegraf/psychedelicrock2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>202</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/psychobilly</location>
+      <title>PSYCHOBILLY / HORRORBILLY</title>
+      <image>http://radcap.ru/stylegraf/psychobilly.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>203</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/punk</location>
+      <title>PUNK ROCK</title>
+      <image>http://radcap.ru/stylegraf/punkrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>204</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rockroll</location>
+      <title>ROCK'n'ROLL</title>
+      <image>http://radcap.ru/stylegraf/rocknroll4.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>205</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rockballads</location>
+      <title>ROCK / METAL BALLADS</title>
+      <image>http://radcap.ru/stylegraf/rockballads3.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>206</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/rockabilly</location>
+      <title>ROCKABILLY</title>
+      <image>http://radcap.ru/stylegraf/rockabilly3.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>207</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/rootsrock</location>
+      <title>ROOTS ROCK</title>
+      <image>http://radcap.ru/stylegraf/rootsrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>208</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/folkrockru</location>
+      <title>RUSSIAN FOLK ROCK</title>
+      <image>http://radcap.ru/stylegraf/folkrockru4.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>209</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/punkru</location>
+      <title>RUSSIAN PUNK ROCK</title>
+      <image>http://radcap.ru/stylegraf/punkrockru2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>210</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rockru</location>
+      <title>RUSSIAN ROCK / BARD ROCK</title>
+      <image>http://radcap.ru/stylegraf/rockru4.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>211</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/shoegazing</location>
+      <title>SHOEGAZING / SHOEGAZE</title>
+      <image>http://radcap.ru/stylegraf/shoegazing3.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>212</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/slowcore</location>
+      <title>SLOWCORE / SADCORE</title>
+      <image>http://radcap.ru/stylegraf/slowcore1.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>213</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/southernrock</location>
+      <title>SOUTHERN ROCK / METAL</title>
+      <image>http://radcap.ru/stylegraf/southernrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>214</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/spacerock</location>
+      <title>SPACE ROCK</title>
+      <image>http://radcap.ru/stylegraf/spacerock2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>215</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/stonerrock</location>
+      <title>STONER ROCK</title>
+      <image>http://radcap.ru/stylegraf/stonerrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>216</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/surfrock</location>
+      <title>SURF ROCK / POP / MUSIC</title>
+      <image>http://radcap.ru/stylegraf/surfrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>217</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/symphorock</location>
+      <title>SYMPHONIC ROCK</title>
+      <image>http://radcap.ru/stylegraf/symphrock.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>218</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/twist</location>
+      <title>TWIST</title>
+      <image>http://radcap.ru/stylegraf/twist2.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>219</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/visualkei</location>
+      <title>VISUAL / NAGOYA / OSHARE / ANGURA KEI</title>
+      <image>http://radcap.ru/stylegraf/visualkei.jpg</image>
+      <meta rel="publisher">ROCK MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>220</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/dancehall</location>
+      <title>DANCEHALL / RAGGAMUFFIN</title>
+      <image>http://radcap.ru/stylegraf/dancehall2.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>221</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>REGGAE / SKA</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/dub</location>
+      <title>DUB MUSIC</title>
+      <image>http://radcap.ru/stylegraf/dub1.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>222</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/reggae</location>
+      <title>REGGAE</title>
+      <image>http://radcap.ru/stylegraf/reggae2.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>223</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/rocksteady</location>
+      <title>ROCKSTEADY / LOVERS ROCK</title>
+      <image>http://radcap.ru/stylegraf/rocksteady.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>224</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/rootsreggae</location>
+      <title>ROOTS REGGAE</title>
+      <image>http://radcap.ru/stylegraf/rootsreggae.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>225</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/ska</location>
+      <title>SKA / SKA REVIVAL</title>
+      <image>http://radcap.ru/stylegraf/ska3.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>226</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/skapunk</location>
+      <title>SKA PUNK / CORE / TWO TONE</title>
+      <image>http://radcap.ru/stylegraf/skapunk1.jpg</image>
+      <meta rel="publisher">REGGAE / SKA</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>227</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/aabmds</location>
+      <title>ATMOSPHERIC / AMBIENT BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/abm4.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>228</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>METAL MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/altmetal</location>
+      <title>ALTERNATIVE / ALT METAL</title>
+      <image>http://radcap.ru/stylegraf/altmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>229</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/atmosphericdoom</location>
+      <title>ATMOSPHERIC DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/atmosdoom.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>230</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/avantblackmet</location>
+      <title>AVANT-GARDE BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/avantgardeblack1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>231</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/avantgardemetal</location>
+      <title>AVANT-GARDE / EXPERIMENTAL METAL</title>
+      <image>http://radcap.ru/stylegraf/avantmetal4.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>232</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/blackdeath</location>
+      <title>BLACK / BLACKENED DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/blackdeath2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>233</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/blackdoom</location>
+      <title>BLACK / BLACKENED DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/blackdoom.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>234</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/blackmetal</location>
+      <title>BLACK METAL / PROTO / TRUE / RAW</title>
+      <image>http://radcap.ru/stylegraf/blackmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>235</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/brutaldeathmetal</location>
+      <title>BRUTAL DEATH METAL / NY / TECHNICAL / SLAMMING</title>
+      <image>http://radcap.ru/stylegraf/brutal1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>236</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/celticmetal</location>
+      <title>CELTIC METAL</title>
+      <image>http://radcap.ru/stylegraf/celticmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>237</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/crossoverthrash</location>
+      <title>CROSSOVER THRASH</title>
+      <image>http://radcap.ru/stylegraf/crossoverthrash1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>238</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/darkmetal</location>
+      <title>DARK METAL</title>
+      <image>http://radcap.ru/stylegraf/darkmetal2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>239</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/deathdoom</location>
+      <title>DEATH DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/deathdoom3.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>240</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/deathmetal</location>
+      <title>DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/deathmetal3.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>241</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/deathnroll</location>
+      <title>DEATH 'N' ROLL</title>
+      <image>http://radcap.ru/stylegraf/deathnroll.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>242</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/dsbm</location>
+      <title>DEPRESSIVE SUICIDAL BLACK METAL / DSBM</title>
+      <image>http://radcap.ru/stylegraf/depressive1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>243</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/doom</location>
+      <title>DOOM / EPIC DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/doom2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>244</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/dronemetal</location>
+      <title>DRONE / DRONE DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/dronemetal1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>245</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/epicmetal</location>
+      <title>EPIC METAL</title>
+      <image>http://radcap.ru/stylegraf/epicmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>246</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/femalemetal</location>
+      <title>FEMALE VOCAL IN METAL</title>
+      <image>http://radcap.ru/stylegraf/femalemetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>247</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/folkblackmet</location>
+      <title>FOLK BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/folkblackmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>248</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/folkdeathmet</location>
+      <title>FOLK DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/folkdeathmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>249</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/folkmetal</location>
+      <title>FOLK METAL</title>
+      <image>http://radcap.ru/stylegraf/folkmetal1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>250</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/funeraldoom</location>
+      <title>FUNERAL DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/fdm2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>251</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/gothblackmet</location>
+      <title>GOTHIC BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/gothblackmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>252</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/gothdeathmet</location>
+      <title>GOTHIC DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/gothdeathmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>253</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/gothdoommet</location>
+      <title>GOTHIC DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/gothicdoom.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>254</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/gothicmetal</location>
+      <title>GOTHIC / GOTH METAL</title>
+      <image>http://radcap.ru/stylegraf/gothicmetal11.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>255</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/groovemetal</location>
+      <title>GROOVE METAL</title>
+      <image>http://radcap.ru/stylegraf/groovemetal5.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>256</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/heavymetal</location>
+      <title>HEAVY METAL</title>
+      <image>http://radcap.ru/stylegraf/heavymetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>257</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/heavypowermetal</location>
+      <title>HEAVY POWER METAL</title>
+      <image>http://radcap.ru/stylegraf/heavypowermetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>258</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/industrialmetal</location>
+      <title>INDUSTRIAL / CYBER METAL</title>
+      <image>http://radcap.ru/stylegraf/industrialmetal5.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>259</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/instrumentalmetal</location>
+      <title>INSTRUMENTAL METAL</title>
+      <image>http://radcap.ru/stylegraf/instrmetal2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>260</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/jazzmetal</location>
+      <title>JAZZ / FUSION METAL</title>
+      <image>http://radcap.ru/stylegraf/jazzmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>261</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/mathmetal</location>
+      <title>MATH METAL / DJENT</title>
+      <image>http://radcap.ru/stylegraf/mathmetal7.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>262</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/medievalmetal</location>
+      <title>MEDIEVAL METAL / ROCK</title>
+      <image>http://radcap.ru/stylegraf/medievalmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>263</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/melodicblackmetal</location>
+      <title>MELODIC BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/mbm.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>264</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/melodicdeath</location>
+      <title>MELODIC DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/mdm.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>265</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/melodicdoom</location>
+      <title>MELODIC DOOM / DOOM DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/melodicdoom.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>266</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/melodicheavy</location>
+      <title>MELODIC HEAVY METAL</title>
+      <image>http://radcap.ru/stylegraf/melodicheavy1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>267</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/melodicpower</location>
+      <title>MELODIC POWER METAL</title>
+      <image>http://radcap.ru/stylegraf/melodicpower.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>268</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/ndh</location>
+      <title>NEUE DEUTSCHE HÄRTE</title>
+      <image>http://radcap.ru/stylegraf/ndh.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>269</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/neoclassicalmetal</location>
+      <title>NEOCLASSICAL METAL</title>
+      <image>http://radcap.ru/stylegraf/neoclassmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>270</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/numetal</location>
+      <title>NU / NÜ / AGGRO METAL</title>
+      <image>http://radcap.ru/stylegraf/numetal8.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>271</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/nwobhm</location>
+      <title>NWOBHM (NEW WAVE OF BRITISH HEAVY METAL)</title>
+      <image>http://radcap.ru/stylegraf/nwobhm.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>272</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/orientalmetal</location>
+      <title>ORIENTAL METAL</title>
+      <image>http://radcap.ru/stylegraf/orientalmetal2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>273</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/paganmetal</location>
+      <title>PAGAN METAL</title>
+      <image>http://radcap.ru/stylegraf/pagan.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>274</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/postblack</location>
+      <title>PROGRESSIVE BLACK / POST-BLACK / BLACKGAZE</title>
+      <image>http://radcap.ru/stylegraf/postblack.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>275</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/postmetal</location>
+      <title>POST / INSTRO / ART METAL</title>
+      <image>http://radcap.ru/stylegraf/postmetal5.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>276</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/powermetal</location>
+      <title>POWER METAL</title>
+      <image>http://radcap.ru/stylegraf/powermetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>277</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/progdeath</location>
+      <title>PROGRESSIVE DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/progdeath.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>278</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/progheavy</location>
+      <title>PROGRESSIVE HEAVY METAL</title>
+      <image>http://radcap.ru/stylegraf/progheavymet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>279</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/progmetal</location>
+      <title>PROGRESSIVE / PROG METAL</title>
+      <image>http://radcap.ru/stylegraf/progmetal1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>280</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/progpowermetal</location>
+      <title>PROGRESSIVE POWER METAL</title>
+      <image>http://radcap.ru/stylegraf/progpowermetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>281</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/sludgemetal</location>
+      <title>SLUDGE METAL / SLUDGECORE / SLUDGE DOOM</title>
+      <image>http://radcap.ru/stylegraf/sludgemetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>282</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/speedheavy</location>
+      <title>SPEED HEAVY</title>
+      <image>http://radcap.ru/stylegraf/speedheavy.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>283</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/speedmetal</location>
+      <title>SPEED METAL</title>
+      <image>http://radcap.ru/stylegraf/speedmetal.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>284</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/stonermetal</location>
+      <title>STONER / STONER DOOM METAL</title>
+      <image>http://radcap.ru/stylegraf/stonermetal1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>285</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/symphonicblackmetal</location>
+      <title>SYMPHONIC BLACK METAL / SYMPHOBLACK</title>
+      <image>http://radcap.ru/stylegraf/symphoblack1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>286</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/symphodeath</location>
+      <title>SYMPHONIC DEATH METAL / SYMPHODEATH</title>
+      <image>http://radcap.ru/stylegraf/symphodeathmet.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>287</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/symphogoth</location>
+      <title>SYMPHONIC GOTHIC METAL</title>
+      <image>http://radcap.ru/stylegraf/symphogothmet2.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>288</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/symphometal</location>
+      <title>SYMPHONIC METAL / SYMPHOMETAL</title>
+      <image>http://radcap.ru/stylegraf/symphonicmetal4.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>289</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/symphopower</location>
+      <title>SYMPHONIC POWER METAL</title>
+      <image>http://radcap.ru/stylegraf/symphopower1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>290</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/techdeathmetal</location>
+      <title>TECHNICAL DEATH METAL / TECHDEATH</title>
+      <image>http://radcap.ru/stylegraf/tdm3.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>291</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/thrashblack</location>
+      <title>THRASH BLACK METAL</title>
+      <image>http://radcap.ru/stylegraf/thrashblack.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>292</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/thrashdeath</location>
+      <title>THRASH DEATH METAL</title>
+      <image>http://radcap.ru/stylegraf/thrashdeath1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>293</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/thrashheavy</location>
+      <title>THRASH HEAVY METAL</title>
+      <image>http://radcap.ru/stylegraf/thrashheavy1.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>294</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/thrashmetal</location>
+      <title>THRASH METAL</title>
+      <image>http://radcap.ru/stylegraf/thrash.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>295</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/vikingmetal</location>
+      <title>VIKING METAL</title>
+      <image>http://radcap.ru/stylegraf/vikingmetal4.jpg</image>
+      <meta rel="publisher">METAL MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>296</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/beatdown</location>
+      <title>BEATDOWN / MOSHCORE / DOWNTEMPO HARDCORE / METALCORE</title>
+      <image>http://radcap.ru/stylegraf/beatdown1.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>297</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>HARDCORE</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/crust</location>
+      <title>CRUST PUNK / NEOCRUST</title>
+      <image>http://radcap.ru/stylegraf/crust.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>298</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/deathcore</location>
+      <title>DEATHCORE / MELODIC DEATHCORE</title>
+      <image>http://radcap.ru/stylegraf/deathcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>299</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/electronicore</location>
+      <title>ELECTRONICORE / SYNTHCORE / TRANCECORE</title>
+      <image>http://radcap.ru/stylegraf/electronicore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>300</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/screamoemo</location>
+      <title>EMOCORE / SCREAMO / EMO VIOLENCE</title>
+      <image>http://radcap.ru/stylegraf/emocore7.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>301</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/grindcore</location>
+      <title>GRINDCORE / DEATHGRIND</title>
+      <image>http://radcap.ru/stylegraf/grindcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>302</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/hardcoremetal</location>
+      <title>HARDCORE / MELODIC HARDCORE</title>
+      <image>http://radcap.ru/stylegraf/hardcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>303</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/hardcorepunk</location>
+      <title>HARDCORE PUNK</title>
+      <image>http://radcap.ru/stylegraf/hardcorepunk.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>304</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/mathcore</location>
+      <title>MATHCORE / CHAOTIC HARDCORE</title>
+      <image>http://radcap.ru/stylegraf/mathcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>305</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/melodicmetalcore</location>
+      <title>MELODIC METALCORE</title>
+      <image>http://radcap.ru/stylegraf/melodicmetalcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>306</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/metalcore</location>
+      <title>METALCORE</title>
+      <image>http://radcap.ru/stylegraf/metalcore4.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>307</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/posthardcore</location>
+      <title>POST HARDCORE</title>
+      <image>http://radcap.ru/stylegraf/posthardcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>308</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/progmetalcore</location>
+      <title>PROGRESSIVE METALCORE</title>
+      <image>http://radcap.ru/stylegraf/progmetalcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>309</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/rapcore</location>
+      <title>RAPCORE / RAP METAL</title>
+      <image>http://radcap.ru/stylegraf/rapcore.jpg</image>
+      <meta rel="publisher">HARDCORE</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>310</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/acid</location>
+      <title>ACID HOUSE / TRANCE / TECHNO</title>
+      <image>http://radcap.ru/stylegraf/acid.png</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>311</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>ELECTRONIC MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/ambient</location>
+      <title>AMBIENT</title>
+      <image>http://radcap.ru/stylegraf/ambient2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>312</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/ambientdub</location>
+      <title>AMBIENT DUB</title>
+      <image>http://radcap.ru/stylegraf/ambientdub1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>313</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/ambienthouse</location>
+      <title>AMBIENT HOUSE</title>
+      <image>http://radcap.ru/stylegraf/ambienthouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>314</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/ambienttechno</location>
+      <title>AMBIENT / INTELLIGENT / TECHNO / HOUSE</title>
+      <image>http://radcap.ru/stylegraf/ambienttechno.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>315</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/balearichouse</location>
+      <title>BALEARIC HOUSE / BALEARIC BEAT</title>
+      <image>http://radcap.ru/stylegraf/balearichouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>316</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/bigroomhouse</location>
+      <title>BIG ROOM HOUSE</title>
+      <image>http://radcap.ru/stylegraf/bigroomhouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>317</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/breakbeat</location>
+      <title>BREAKBEAT / BIG BEAT</title>
+      <image>http://radcap.ru/stylegraf/breakbeat3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>318</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/breakcore</location>
+      <title>BREAKCORE</title>
+      <image>http://radcap.ru/stylegraf/breakcore3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>319</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/brokenbeat</location>
+      <title>BROKEN BEAT / BRUK</title>
+      <image>http://radcap.ru/stylegraf/brokenbeat.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>320</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/chillout</location>
+      <title>CHILL OUT</title>
+      <image>http://radcap.ru/stylegraf/chillout4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>321</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/chillwave</location>
+      <title>CHILLWAVE / HYPNAGOGIC POP / GLO-FI / DREAM BEAT / VAPORWAVE</title>
+      <image>http://radcap.ru/stylegraf/chillwave.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>322</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/chiptune</location>
+      <title>CHIPTUNE / CHIP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/chiptune2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>323</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/clubdance</location>
+      <title>CLUB DANCE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/clubdance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>324</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/cyberpunk</location>
+      <title>CYBERPUNK</title>
+      <image>http://radcap.ru/stylegraf/cyberpunk.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>325</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/darkambient</location>
+      <title>INDUSTRIAL / DARK / RITUAL AMBIENT</title>
+      <image>http://radcap.ru/stylegraf/ritamb.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>326</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/darkdubstep</location>
+      <title>DARK DUBSTEP</title>
+      <image>http://radcap.ru/stylegraf/darkdubstep4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>327</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/darkelectro</location>
+      <title>DARK ELECTRO / AGGROTECH</title>
+      <image>http://radcap.ru/stylegraf/darkelektro4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>328</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/darkfolk</location>
+      <title>DARK / NEO / APOCALYPTIC FOLK</title>
+      <image>http://radcap.ru/stylegraf/neofolk2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>329</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/darkpsytrance</location>
+      <title>DARK PSYTRANCE</title>
+      <image>http://radcap.ru/stylegraf/darkpsytrance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>330</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/darksynth</location>
+      <title>DARKSYNTH / DARK SYNTHWAVE</title>
+      <image>http://radcap.ru/stylegraf/darksynth2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>331</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/darktechno</location>
+      <title>DARK TECHNO</title>
+      <image>http://radcap.ru/stylegraf/darktechno2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>332</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/deathstep</location>
+      <title>DEATHSTEP</title>
+      <image>http://radcap.ru/stylegraf/deathstep.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>333</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/deephouse</location>
+      <title>DEEP / CHILL HOUSE</title>
+      <image>http://radcap.ru/stylegraf/deephouse1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>334</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/detroittechno</location>
+      <title>DETROIT TECHNO / TECH HOUSE</title>
+      <image>http://radcap.ru/stylegraf/detroittech1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>335</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/downtempo</location>
+      <title>DOWNTEMPO / DOWNBEAT</title>
+      <image>http://radcap.ru/stylegraf/downtempo4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>336</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/dreamtrance</location>
+      <title>DREAM TRANCE / HOUSE / DANCE</title>
+      <image>http://radcap.ru/stylegraf/dreamtrance3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>337</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/droneambient</location>
+      <title>DRONE AMBIENT</title>
+      <image>http://radcap.ru/stylegraf/droneambient.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>338</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/drumbass</location>
+      <title>DRUM'n'BASS</title>
+      <image>http://radcap.ru/stylegraf/drumnbass.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>339</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/drumstep</location>
+      <title>DRUMSTEP</title>
+      <image>http://radcap.ru/stylegraf/drumstep.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>340</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/dubstep</location>
+      <title>DUBSTEP</title>
+      <image>http://radcap.ru/stylegraf/dubstep3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>341</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/dubtechno</location>
+      <title>DUB TECHNO</title>
+      <image>http://radcap.ru/stylegraf/dubtechno6.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>342</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/dungeonsynth</location>
+      <title>DUNGEON SYNTH</title>
+      <image>http://radcap.ru/stylegraf/dungeonsynth.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>343</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/ebm</location>
+      <title>EBM (ELECTRONIC BODY MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/ebm1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>344</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/edmtrap</location>
+      <title>EDM (ELECTRONIC DANCE MUSIC) TRAP</title>
+      <image>http://radcap.ru/stylegraf/edmtrap1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>345</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/electro</location>
+      <title>ELECTRO / ELECTRO FUNK</title>
+      <image>http://radcap.ru/stylegraf/electro2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>346</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/electroclash</location>
+      <title>ELECTROCLASH / SYNTHCORE / TECH POP / NOUVEAU DISCO</title>
+      <image>http://radcap.ru/stylegraf/electroclash.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>347</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/electrohouse</location>
+      <title>ELECTRO HOUSE</title>
+      <image>http://radcap.ru/stylegraf/electrohouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>348</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/electroindustrial</location>
+      <title>ELECTRO-INDUSTRIAL</title>
+      <image>http://radcap.ru/stylegraf/elindustr.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>349</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/electroswing</location>
+      <title>ELECTRO SWING / SWING HOUSE</title>
+      <image>http://radcap.ru/stylegraf/electroswing1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>350</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/electrotechno</location>
+      <title>ELECTRO TECHNO</title>
+      <image>http://radcap.ru/stylegraf/electrotech.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>351</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/enigmatic</location>
+      <title>ENIGMATIC / MYSTIC POP</title>
+      <image>http://radcap.ru/stylegraf/enigmatic.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>352</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/ethnotronica</location>
+      <title>ETHNIC ELECTRONICA / ETHNOTRONICA</title>
+      <image>http://radcap.ru/stylegraf/ethnotronica.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>353</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/eurohouse</location>
+      <title>EURO HOUSE</title>
+      <image>http://radcap.ru/stylegraf/eurohouse3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>354</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/experimentaltechno</location>
+      <title>EXPERIMENTAL TECHNO</title>
+      <image>http://radcap.ru/stylegraf/exptechno.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>355</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/fieldrecording</location>
+      <title>FIELD RECORDINGS</title>
+      <image>http://radcap.ru/stylegraf/fieldrecordings.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>356</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/forestpsytrance</location>
+      <title>FOREST PSYTRANCE</title>
+      <image>http://radcap.ru/stylegraf/forestpsytrance2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>357</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/freestyle</location>
+      <title>FREESTYLE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/freestyle.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>358</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/fullon</location>
+      <title>FULL ON / MELODIC PSYTRANCE / MORNING TRANCE</title>
+      <image>http://radcap.ru/stylegraf/fullon.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>359</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/funkyhouse</location>
+      <title>FUNKY HOUSE</title>
+      <image>http://radcap.ru/stylegraf/funkyhouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>360</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/futurebass</location>
+      <title>FUTURE BASS / CHILL TRAP</title>
+      <image>http://radcap.ru/stylegraf/futurebass.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>361</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/futuregarage</location>
+      <title>FUTURE GARAGE / CHILLSTEP / DEEP DUBSTEP / POST DUBSTEP</title>
+      <image>http://radcap.ru/stylegraf/chillstep4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>362</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/futurepop</location>
+      <title>FUTUREPOP</title>
+      <image>http://radcap.ru/stylegraf/futurepop1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>363</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/gabber</location>
+      <title>GABBER / EARLY / MAINSTREAM HARDCORE</title>
+      <image>http://radcap.ru/stylegraf/gabber11.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>364</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/garagehouse</location>
+      <title>GARAGE / NEW YORK HOUSE</title>
+      <image>http://radcap.ru/stylegraf/garagehouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>365</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/glitch</location>
+      <title>GLITCH / GLITCH-HOP</title>
+      <image>http://radcap.ru/stylegraf/glitch2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>366</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/goatrance</location>
+      <title>GOA TRANCE</title>
+      <image>http://radcap.ru/stylegraf/goa4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>367</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/grime</location>
+      <title>GRIME</title>
+      <image>http://radcap.ru/stylegraf/grime.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>368</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/happyhardcore</location>
+      <title>HAPPY / UK HARDCORE / HAPPY RAVE / HAPPYCORE</title>
+      <image>http://radcap.ru/stylegraf/ukhardcore.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>369</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/hardcoretech</location>
+      <title>HARDCORE TECHNO / SCHRANZ</title>
+      <image>http://radcap.ru/stylegraf/hardtechno.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>370</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/hardhouse</location>
+      <title>HARD HOUSE / UK HARD HOUSE</title>
+      <image>http://radcap.ru/stylegraf/hardhouse3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>371</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/hardstyle</location>
+      <title>HARDSTYLE</title>
+      <image>http://radcap.ru/stylegraf/hardstyle.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>372</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/hardtrance</location>
+      <title>HARD TRANCE</title>
+      <image>http://radcap.ru/stylegraf/hardtrance3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>373</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/hitechpsy</location>
+      <title>HI-TECH / PSYTRANCE</title>
+      <image>http://radcap.ru/stylegraf/hitechpsy.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>374</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/house</location>
+      <title>HOUSE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/house4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>375</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/idm</location>
+      <title>IDM (INTELLIGENT DANCE MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/idm2.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>376</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/idmambient</location>
+      <title>IDM AMBIENT</title>
+      <image>http://radcap.ru/stylegraf/idmambient.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>377</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/illbient</location>
+      <title>ILLBIENT</title>
+      <image>http://radcap.ru/stylegraf/illbient.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>378</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/indieelectronic</location>
+      <title>INDIE ELECTRONIC / NEW RAVE</title>
+      <image>http://radcap.ru/stylegraf/indieelectronic.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>379</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/industrial</location>
+      <title>INDUSTRIAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/industrial.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>380</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/industrialtechno</location>
+      <title>INDUSTRIAL TECHNO</title>
+      <image>http://radcap.ru/stylegraf/industrialtechno.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>381</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/jumpstyle</location>
+      <title>JUMPSTYLE</title>
+      <image>http://radcap.ru/stylegraf/jumpstyle.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>382</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/jungle</location>
+      <title>JUNGLE / RAGGA JUNGLE / RAGGACORE</title>
+      <image>http://radcap.ru/stylegraf/jungle.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>383</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/leftfield</location>
+      <title>LEFTFIELD</title>
+      <image>http://radcap.ru/stylegraf/leftfield1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>384</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/liquidfunk</location>
+      <title>LIQUID FUNK / INTELLIGENT / ATMOSPHERIC DRUM'n'BASS</title>
+      <image>http://radcap.ru/stylegraf/intelligent.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>385</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/lo-fi</location>
+      <title>LO-FI</title>
+      <image>http://radcap.ru/stylegraf/lofi.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>386</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/lounge</location>
+      <title>LOUNGE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/lounge1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>387</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/makina</location>
+      <title>MAKINA</title>
+      <image>http://radcap.ru/stylegraf/makina.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>388</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/martialindustrial</location>
+      <title>MARTIAL INDUSTRIAL / MILITARY POP</title>
+      <image>http://radcap.ru/stylegraf/martialindustrial.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>389</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/melodichouse</location>
+      <title>MELODIC HOUSE / TECHNO</title>
+      <image>http://radcap.ru/stylegraf/melodichouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>390</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/metalstep</location>
+      <title>METALSTEP / METAL DUBSTEP</title>
+      <image>http://radcap.ru/stylegraf/metalstep.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>391</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/mintechno</location>
+      <title>MINIMAL TECHNO</title>
+      <image>http://radcap.ru/stylegraf/mintech.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>392</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/mintechhouse</location>
+      <title>MINIMAL TECH HOUSE</title>
+      <image>http://radcap.ru/stylegraf/mintechhouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>393</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/musiqueconcrete</location>
+      <title>MUSIQUE CONCRETE / ACOUSMATIC / ELECTROACOUSTIC</title>
+      <image>http://radcap.ru/stylegraf/concrete.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>394</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/neurofunk</location>
+      <title>NEUROFUNK / TECHNOID / TECHSTEP</title>
+      <image>http://radcap.ru/stylegraf/neurofunk3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>395</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/newage</location>
+      <title>NEW AGE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/newage.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>396</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/newbeat</location>
+      <title>NEW BEAT</title>
+      <image>http://radcap.ru/stylegraf/newbeat.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>397</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/nightpsytrance</location>
+      <title>NIGHT FULL ON / PSYTRANCE</title>
+      <image>http://radcap.ru/stylegraf/nightfullon1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>398</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/nitzhonot</location>
+      <title>NITZHONOT (PSYCHEDELIC TRANCE)</title>
+      <image>http://radcap.ru/stylegraf/nitzhonot.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>399</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/noise</location>
+      <title>NOISE / POWER NOISE / ELECTRONICS</title>
+      <image>http://radcap.ru/stylegraf/noise.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>400</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/organichouse</location>
+      <title>ORGANIC HOUSE</title>
+      <image>http://radcap.ru/stylegraf/organichouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>401</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/progbreaks</location>
+      <title>PROGRESSIVE / ATMOSPHERIC BREAKS</title>
+      <image>http://radcap.ru/stylegraf/progbreaks.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>402</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/progelectronic</location>
+      <title>PROGRESSIVE ELECTRONIC</title>
+      <image>http://radcap.ru/stylegraf/progelectronic.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>403</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/proghouse</location>
+      <title>PROGRESSIVE HOUSE</title>
+      <image>http://radcap.ru/stylegraf/proghouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>404</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/progtrance</location>
+      <title>PROGRESSIVE TRANCE</title>
+      <image>http://radcap.ru/stylegraf/progtrance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>405</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/psybient</location>
+      <title>PSYBIENT / AMBIENT PSYTRANCE / AMBIENT GOA / PSYCHILL / PSYDUB</title>
+      <image>http://radcap.ru/stylegraf/psybient4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>406</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/psyprog</location>
+      <title>PROGRESSIVE PSYTRANCE / PSY-PROG / PSY PROGRESSIVE</title>
+      <image>http://radcap.ru/stylegraf/psyprog.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>407</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/psytrance</location>
+      <title>PSYCHEDELIC TRANCE / PSYTRANCE / PSY</title>
+      <image>http://radcap.ru/stylegraf/psytrance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>408</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/pumpinghouse</location>
+      <title>PUMPING HOUSE / HARD BASS / METAL SHADE / SCOUSE / POKY / BUMPING</title>
+      <image>http://radcap.ru/stylegraf/pumpinghouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>409</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/retrowave</location>
+      <title>RETRO ELECTRO (RETROWAVE / SYNTHWAVE / DREAMWAVE / OUTRUN ELECTRO)</title>
+      <image>http://radcap.ru/stylegraf/retrowave3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>410</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/riddimdubstep</location>
+      <title>RIDDIM DUBSTEP</title>
+      <image>http://radcap.ru/stylegraf/riddimdubstep.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>411</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/clubru</location>
+      <title>RUSSIAN CLUB DANCE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/clubru.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>412</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/soulfulhouse</location>
+      <title>SOULFUL HOUSE</title>
+      <image>http://radcap.ru/stylegraf/soulfulhouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>413</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/spacemusic</location>
+      <title>SPACE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/spacemusic4.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>414</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/spacesynth</location>
+      <title>SPACESYNTH / SYNTHDANCE / SPACEDANCE</title>
+      <image>http://radcap.ru/stylegraf/spacesynth.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>415</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/suomisaundi</location>
+      <title>SUOMISAUNDI / FREEFORM PSYTRANCE / SPUGEDELIC TRANCE</title>
+      <image>http://radcap.ru/stylegraf/suomisaundi.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>416</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/synthpop</location>
+      <title>SYNTHPOP / ELECTROPOP / TECHNOPOP</title>
+      <image>http://radcap.ru/stylegraf/synthpop8.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>417</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/techno</location>
+      <title>TECHNO</title>
+      <image>http://radcap.ru/stylegraf/techno3.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>418</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/techtrance</location>
+      <title>TECHNO TRANCE / TECHTRANCE</title>
+      <image>http://radcap.ru/stylegraf/techtrance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>419</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/tradelectronic</location>
+      <title>TRADITIONAL ELECTRONIC MUSIC</title>
+      <image>http://radcap.ru/stylegraf/traditionalelectronic1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>420</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/trance</location>
+      <title>TRANCE (ELECTRONIC MUSIC)</title>
+      <image>http://radcap.ru/stylegraf/trance.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>421</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/tribalhouse</location>
+      <title>TRIBAL HOUSE</title>
+      <image>http://radcap.ru/stylegraf/tribalhouse.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>422</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/triphop</location>
+      <title>TRIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/triphop.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>423</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/twilightpsy</location>
+      <title>TWILIGHT / PSYTRANCE</title>
+      <image>http://radcap.ru/stylegraf/twilightpsy.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>424</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/undergroundtechno</location>
+      <title>UNDERGROUND TECHNO / TECH HOUSE</title>
+      <image>http://radcap.ru/stylegraf/undergroundtech.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>425</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/upliftingtrance</location>
+      <title>UPLIFTING TRANCE</title>
+      <image>http://radcap.ru/stylegraf/upliftingtrance1.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>426</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/vocaltrance</location>
+      <title>VOCAL TRANCE</title>
+      <image>http://radcap.ru/stylegraf/vocaltrance5.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>427</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/witchhouse</location>
+      <title>WITCH HOUSE</title>
+      <image>http://radcap.ru/stylegraf/witchhouse6.jpg</image>
+      <meta rel="publisher">ELECTRONIC MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>428</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/abstracthiphop</location>
+      <title>ABSTRACT / EXPERIMENTAL HIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/abstracthiphop1.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>429</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>HIP-HOP / RAP MUSIC</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/chicanorap</location>
+      <title>CHICANO RAP</title>
+      <image>http://radcap.ru/stylegraf/chicanorap1.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>430</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/cloudrap</location>
+      <title>CLOUD RAP / TRILLWAVE</title>
+      <image>http://radcap.ru/stylegraf/cloudrap1.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>431</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/eastcoastrap</location>
+      <title>EAST COAST RAP / HIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/eastcoastrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>432</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/frenchrap</location>
+      <title>FRENCH HIP-HOP / RAP</title>
+      <image>http://radcap.ru/stylegraf/frenchrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>433</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/gangstarap</location>
+      <title>WEST COAST / GANGSTA RAP / G-FUNK</title>
+      <image>http://radcap.ru/stylegraf/gangsta2.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>434</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/germanrap</location>
+      <title>GERMAN / DEUTSCHE HIP-HOP / RAP</title>
+      <image>http://radcap.ru/stylegraf/germanrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>435</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/hardcorerap</location>
+      <title>HARDCORE RAP / HORRORCORE</title>
+      <image>http://radcap.ru/stylegraf/hardcorerap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>436</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/hiphop</location>
+      <title>HIP-HOP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/hiphop2.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>437</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/instrumentalhiphop</location>
+      <title>INSTRUMENTAL HIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/instrumentalhiphop1.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>438</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/jazzrap</location>
+      <title>JAZZ RAP / JAZZ HOP / JAZZY HIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/jazzrap2.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>439</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/memphisrap</location>
+      <title>MEMPHIS RAP / HIP HOP</title>
+      <image>http://radcap.ru/stylegraf/memphisrap3.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>440</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/oldschoolhiphop</location>
+      <title>OLD SCHOOL HIP-HOP / RAP</title>
+      <image>http://radcap.ru/stylegraf/oldschhiphop.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>441</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rap</location>
+      <title>RAP MUSIC</title>
+      <image>http://radcap.ru/stylegraf/rap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>442</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/rapru</location>
+      <title>RUSSIAN RAP / HIP HOP</title>
+      <image>http://radcap.ru/stylegraf/rapru3.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>443</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/southernrap</location>
+      <title>SOUTHERN RAP / HIP-HOP / CRUNK</title>
+      <image>http://radcap.ru/stylegraf/southernrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>444</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/ukhiphop</location>
+      <title>UK / BRITISH HIP-HOP / RAP</title>
+      <image>http://radcap.ru/stylegraf/ukrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>445</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/undergroundrap</location>
+      <title>UNDERGROUND RAP / HIP-HOP</title>
+      <image>http://radcap.ru/stylegraf/undergroundrap.jpg</image>
+      <meta rel="publisher">HIP-HOP / RAP MUSIC</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>446</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/bardru</location>
+      <title>RUSSIAN AUTHOR'S / BARD SONG</title>
+      <image>http://radcap.ru/stylegraf/bard1.jpg</image>
+      <meta rel="publisher">RUSSIAN SHANSON</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>447</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>RUSSIAN SHANSON</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/gypsyru</location>
+      <title>GYPSY ROMANCES / SONGS</title>
+      <image>http://radcap.ru/stylegraf/gypsyru2.jpg</image>
+      <meta rel="publisher">RUSSIAN SHANSON</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>448</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/postshanson</location>
+      <title>RUSSIAN POST SHANSON</title>
+      <image>http://radcap.ru/stylegraf/postshanson8.jpg</image>
+      <meta rel="publisher">RUSSIAN SHANSON</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>449</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/romanceru</location>
+      <title>RUSSIAN / URBAN / CRUEL ROMANCE</title>
+      <image>http://radcap.ru/stylegraf/romance4.jpg</image>
+      <meta rel="publisher">RUSSIAN SHANSON</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>450</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/shansonru</location>
+      <title>RUSSIAN SHANSON</title>
+      <image>http://radcap.ru/stylegraf/shansonru.jpg</image>
+      <meta rel="publisher">RUSSIAN SHANSON</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>451</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/60collection</location>
+      <title>60's MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/60s.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>452</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>MISCELLANEOUS</aimp:title>
+        <aimp:state>2</aimp:state>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/70collection</location>
+      <title>70's MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/70s.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>453</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/pop80</location>
+      <title>80's MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/pop802.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>454</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/90collection</location>
+      <title>90's MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/90.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>455</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.12.130:8000/00collection</location>
+      <title>2000's MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/00s.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>456</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/accordion</location>
+      <title>ACCORDION / BAYAN / HARMON</title>
+      <image>http://radcap.ru/stylegraf/accordeon1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>457</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/acoustic</location>
+      <title>ACOUSTIC &amp; UNPLUGGED</title>
+      <image>http://radcap.ru/stylegraf/acoustic.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>458</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/acousticguitar</location>
+      <title>ACOUSTIC GUITAR</title>
+      <image>http://radcap.ru/stylegraf/acousticguitar1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>459</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/anime</location>
+      <title>ANIME OST / SCORE</title>
+      <image>http://radcap.ru/stylegraf/anime2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>460</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/ballroomdance</location>
+      <title>BALLROOM DANCE</title>
+      <image>http://radcap.ru/stylegraf/ballroomdance1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>461</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/musicgame</location>
+      <title>COMPUTER / VIDEO GAME MUSIC (OST / SCORE / SOUNDTRACK)</title>
+      <image>http://radcap.ru/stylegraf/game3.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>462</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/easylistening</location>
+      <title>EASY LISTENING / MOOD MUSIC</title>
+      <image>http://radcap.ru/stylegraf/easylistening2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>463</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/erotic</location>
+      <title>EROTIC / SENSUAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/ero3.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>464</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/experimentalmusic</location>
+      <title>EXPERIMENTAL / AVANT-GARDE MUSIC</title>
+      <image>http://radcap.ru/stylegraf/experimentalmusic1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>465</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/flute</location>
+      <title>FLUTE</title>
+      <image>http://radcap.ru/stylegraf/flute3.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>466</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/hammond</location>
+      <title>HAMMOND / WURLITZER / THOMAS ORGANS</title>
+      <image>http://radcap.ru/stylegraf/hammond2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>467</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/healing</location>
+      <title>HEALING MUSIC (YOGA, REIKI, ZEN, ...)</title>
+      <image>http://radcap.ru/stylegraf/healing1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>468</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/indiancinema</location>
+      <title>INDIAN CINEMA MUSIC</title>
+      <image>http://radcap.ru/stylegraf/indiancinema.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>469</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/instrumental</location>
+      <title>INSTRUMENTAL POPULAR MUSIC</title>
+      <image>http://radcap.ru/stylegraf/instrumental.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>470</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/lovesongs</location>
+      <title>LOVE SONGS / COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/lovesongs.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>471</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/meditation</location>
+      <title>MEDITATION MUSIC</title>
+      <image>http://radcap.ru/stylegraf/meditation.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>472</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/rusmilsong</location>
+      <title>MILITARY SONGS / MARCHES OF RUSSIA</title>
+      <image>http://radcap.ru/stylegraf/rusmilsong.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>473</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/misc</location>
+      <title>MISCELLANEOUS / COMPILATION</title>
+      <image>http://radcap.ru/stylegraf/misc2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>474</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/modernclassical</location>
+      <title>MODERN CLASSICAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/modernclass2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>475</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/neoclassical</location>
+      <title>NEOCLASSICAL MUSIC</title>
+      <image>http://radcap.ru/stylegraf/neoclassicalmusic1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>476</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/oldies</location>
+      <title>OLDIES / DOO-WOP / EARLY POP / EARLY R'N'B</title>
+      <image>http://radcap.ru/stylegraf/oldies.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>477</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/piano</location>
+      <title>PIANO (EASY LISTENING / INSTRUMENTAL / NEW AGE)</title>
+      <image>http://radcap.ru/stylegraf/piano6.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>478</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/relaxation</location>
+      <title>RELAXATION MUSIC</title>
+      <image>http://radcap.ru/stylegraf/relax2.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>479</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.39.202:8000/romantic</location>
+      <title>ROMANTIC MUSIC COLLECTION</title>
+      <image>http://radcap.ru/stylegraf/romantic.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>480</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/poetryru</location>
+      <title>RUSSIAN POETRY / POEMS</title>
+      <image>http://radcap.ru/stylegraf/poetry1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>481</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/saxophone</location>
+      <title>SAXOPHONE</title>
+      <image>http://radcap.ru/stylegraf/saxophone.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>482</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://213.141.131.10:8000/singersongwriter</location>
+      <title>SINGER-SONGWRITER</title>
+      <image>http://radcap.ru/stylegraf/singer1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>483</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.14.76:8000/soundnat</location>
+      <title>SOUNDS OF NATURE</title>
+      <image>http://radcap.ru/stylegraf/soundsnat3.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>484</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.111.119.111:8000/trailer</location>
+      <title>TRAILER / PRODUCTION MUSIC</title>
+      <image>http://radcap.ru/stylegraf/trailer1.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>485</aimp:queueIndex>
+      </extension>
+    </track>
+    <track>
+      <location>http://79.120.77.11:8000/vocal</location>
+      <title>VOCAL</title>
+      <image>http://radcap.ru/stylegraf/vocal555.jpg</image>
+      <meta rel="publisher">MISCELLANEOUS</meta>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>486</aimp:queueIndex>
+      </extension>
+    </track>
+  </trackList>
+</playlist>
